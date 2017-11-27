@@ -29,8 +29,8 @@ print "login success plak"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""O҉n҉e҉ ҉P҉i҉e҉c҉e҉ ҉T҉e҉a҉m҉ ҉P҉r҉o҉t҉e҉c҉t҉
-Owner : ✰ЌờᎮḼΛẌֆ✰
+helpMessage ="""SECURITY ROOM RANGERS """
+Owner : ✰RANGERS✰
 -==================-
 ◄]·♦·Menu For Public·♦·[►
 [•]Adminlist
@@ -55,7 +55,7 @@ Owner : ✰ЌờᎮḼΛẌֆ✰
 >>[Perintah Proteksi]<<
 👑Hanya Untuk Owner👑
 -==================-
-O҉n҉e҉ ҉P҉i҉e҉c҉e҉ ҉T҉e҉a҉m҉ ҉P҉r҉o҉t҉e҉c҉t҉
+SECURITY ROOM RANGERS
 -==================-
 """
 KAC=[cl,ki,kk,kc,ks]
@@ -76,7 +76,7 @@ Cmid = kc.getProfile().mid #Ussop
 Dmid = ks.getProfile().mid #Chooper
 
 Bots=[mid,Amid,Bmid,Cmid,Dmid]
-admin=["ued156c86ffa56024c0acba16f7889e6d"] 
+admin=["ued156c86ffa56024c0acb"] 
 owner=["ued156c86ffa56024c0acba16f7889e6d"]
 whitelist=[""]
 wait = {
